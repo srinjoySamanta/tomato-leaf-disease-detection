@@ -1,1 +1,1 @@
-# tomato-leaf-disease-detectio
+# tomato-leaf-disease-detection
